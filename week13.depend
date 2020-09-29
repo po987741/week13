@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1601350996 source:c:\users\student3\desktop\c004\week13\week13\for2.c
+	<stdio.h>
+
+1601349863 source:c:\users\student3\desktop\c004\week13\week13\main.c
+	<stdio.h>
+	"broker.h"
+
+1601351034 c:\users\student3\desktop\c004\week13\week13\broker.h
+
+1601350732 source:c:\users\student3\desktop\c004\week13\week13\for1.c
+	<stdio.h>
+
